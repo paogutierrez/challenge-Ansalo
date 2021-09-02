@@ -1,0 +1,64 @@
+
+.container main{
+
+    margin-top:50px;
+    background-color:black;
+}
+
+.title{ 
+    text-align: center;
+     margin: 50px 30px 40px 30px;
+     background:purple;
+     color: black;
+     border-radius: 10px;
+     padding:10px 10px 10px 10px;
+     font-family: 'ZCOOL KuaiLe', cursive;
+}
+
+.margin {
+    margin: 20px 0;
+    border:5px;
+}
+
+.align-center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.point {
+    border: 1px solid rgb(0, 0, 0);
+    height: 2rem;
+    padding: 3px;
+    width: 100%;
+    border-radius: 10px;
+    background: #e47eca;
+}
+.botonnumeroyletra {
+    background: rgb(216, 8, 95);
+    color: white;
+    border: none;
+    width: 50px;
+    height: 50px;
+    border-radius: 25%;
+    box-shadow: 0 2px 2px rgb(0, 0, 0);
+    font-family:'ZCOOL KuaiLe', cursive;
+}
+.limpiar {
+    box-shadow: 0 2px 2px rgb(54, 4, 52);
+    width: 60px;
+    height: 50px;
+    border-radius: 20px;
+    border: none;
+    background: rgb(42, 19, 170);
+    color: white;
+    font-family:'ZCOOL KuaiLe', cursive;
+
+}
+p{
+    font-family:'ZCOOL KuaiLe', cursive;
+    color:black;
+    font-size: 25px;
+    padding:4px;
+    border-radius:5px;
+
+}
